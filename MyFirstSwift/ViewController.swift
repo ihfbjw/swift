@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         let digit = 5;
         print("touched \(digit)  digit")
         print("touched digit")
+        print("jiwoo digit")
+        
         
     }
 
